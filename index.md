@@ -1,5 +1,3 @@
-### pilchie.com
-
 Kevin Pilch has worked on Developer Tools at Microsoft for more than 15 years. During that time he has worked on the C# and VB IDE experience, including features like IntelliSense, formatting, refactoring, colorization and more. 
 Currently he manages the .NET Tools team, which includes MSBuild, dotnet.exe, the VS Project System, etc. He loves spending time with his kids, training for marathons, and playing hockey. His weaknesses include beer and 
 chocolate chip cookies. You can find Kevin on Twitter [@Pilchie](https://twitter.com/Pilchie), or by email at [me@pilchie.com](mailto:me@pilchie.com).
